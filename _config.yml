@@ -10,7 +10,7 @@ name: Riya Singh
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
 # description: CSCI-UA 480 Student, Spring 2023
-description: HI! My name is Riya and I'm currently a senior at NYU majoring in Computer Science. I was born and raised in California but have become quite fond of the East Coast during my college years. I'm excited to graduate this Spring and become a part of the transformative tech industry :). Shoot me a note at rs6854@nyu.edu 
+description: NYU Senior Majoring in Computer Science 
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -94,3 +94,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
