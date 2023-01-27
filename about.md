@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my blog for the Open Source Software Development Class with Professor Joanna Klukowska! 
 
 ### More Information
 

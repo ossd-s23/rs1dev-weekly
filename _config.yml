@@ -5,11 +5,12 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Riya Singh
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2023
+# description: CSCI-UA 480 Student, Spring 2023
+description: HI! My name is Riya and I'm currently a senior at NYU majoring in Computer Science. I was born and raised in California but have become quite fond of the East Coast during my college years. I'm excited to graduate this Spring and become a part of the transformative tech industry :). Shoot me a note at rs6854@nyu.edu 
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -17,7 +18,7 @@ description: CSCI-UA 480 Student, Spring 2023
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: /rs1dev-weekly/images/headphones.jpg 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -35,7 +36,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: ossd-s23
+  github: rs1dev
   instagram:
   linkedin:
   pinterest:
@@ -50,14 +51,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s23.github.io/weekly"
+url: "https://ossd-s23.github.io/rs1dev-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/rs1dev-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
