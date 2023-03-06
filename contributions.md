@@ -22,7 +22,7 @@ Replace the first row with your own contribution.
 | Feb 25 | [Verizon](https://www.openstreetmap.org/changeset/133062665), [bluemercury](https://www.openstreetmap.org/changeset/133065655), [Mattress Firm](https://www.openstreetmap.org/changeset/133066226), [FlatRate Moving](https://www.openstreetmap.org/node/2555136032), [Timothy Oulton](https://www.openstreetmap.org/changeset/133068271)|  OpenStreetMap   |  I added some retailers in the Flatiron neighborhood. |
 | Feb 25    | [Eklund Real Estate](https://www.openstreetmap.org/changeset/133067880), [Gibney 890 Broadway](https://www.openstreetmap.org/changeset/133066670), [Equinox](https://www.openstreetmap.org/changeset/133066938), [Crate & Barrel](https://www.openstreetmap.org/node/2555136016)   |  OpenStreetMap  |   I added a real estate office,  a dance school, a gym, and an upcoming furniture store including a note with its expected opening date. | 
 Feb 26| [Google Form Issue](https://github.com/ossd-s23/KodeHub/issues/7), [File Inquiry](https://github.com/ossd-s23/KodeHub/issues/8) | Browser Add-on | I opened 2 issues with one of the browser projects.|  
-
+| March 5 | [Closed issue](https://github.com/ossd-s23/project-evaluation/issues/4)  |  Github [project-evaluation](https://github.com/ossd-s23/project-evaluation) repo bug fix |  I resolved an issue that [Jiaju Jiao](https://github.com/Jiajun-Jiao) opened about changing two file names so they can be viewed in markdown format. |
 
 
 <!-- | Date #       | Contribution (Link)  | Type  | Description |
