@@ -23,6 +23,8 @@ Replace the first row with your own contribution.
 | Feb 25    | [Eklund Real Estate](https://www.openstreetmap.org/changeset/133067880), [Gibney 890 Broadway](https://www.openstreetmap.org/changeset/133066670), [Equinox](https://www.openstreetmap.org/changeset/133066938), [Crate & Barrel](https://www.openstreetmap.org/node/2555136016)   |  OpenStreetMap  |   I added a real estate office,  a dance school, a gym, and an upcoming furniture store including a note with its expected opening date. | 
 Feb 26| [Google Form Issue](https://github.com/ossd-s23/KodeHub/issues/7), [File Inquiry](https://github.com/ossd-s23/KodeHub/issues/8) | Browser Add-on | I opened 2 issues with one of the browser projects.|  
 | March 5 | [Closed issue](https://github.com/ossd-s23/project-evaluation/issues/4)  |  Github [project-evaluation](https://github.com/ossd-s23/project-evaluation) repo bug fix |  I resolved an issue that [Jiaju Jiao](https://github.com/Jiajun-Jiao) opened about changing two file names so they can be viewed in markdown format. |
+| March 21 | [PR](https://github.com/joannakl/ossd/pull/70) | [Course Website](https://cs.nyu.edu/~joannakl/ossd_s23/daily.html) | I added the midterm and final dates to close [this issue](https://github.com/joannakl/ossd/issues/68) | 
+
 
 
 <!-- | Date #       | Contribution (Link)  | Type  | Description |
