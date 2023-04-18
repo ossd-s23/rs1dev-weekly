@@ -24,6 +24,7 @@ Replace the first row with your own contribution.
 Feb 26| [Google Form Issue](https://github.com/ossd-s23/KodeHub/issues/7), [File Inquiry](https://github.com/ossd-s23/KodeHub/issues/8) | Browser Add-on | I opened 2 issues with one of the browser projects.|  
 | March 5 | [Closed issue](https://github.com/ossd-s23/project-evaluation/issues/4)  |  Github [project-evaluation](https://github.com/ossd-s23/project-evaluation) repo bug fix |  I resolved an issue that [Jiaju Jiao](https://github.com/Jiajun-Jiao) opened about changing two file names so they can be viewed in markdown format. |
 | March 21 | [PR](https://github.com/joannakl/ossd/pull/70) | [Course Website](https://cs.nyu.edu/~joannakl/ossd_s23/daily.html) | I added the midterm and final dates to close [this issue](https://github.com/joannakl/ossd/issues/68). | 
+April 17 | [taïm](https://www.openstreetmap.org/changeset/134998922), [Beatnic](https://www.openstreetmap.org/changeset/134999063#map=19/40.74197/-73.99293) | OpenStreetMap | I added a restaurant and updated the name of another restaurant following a rebranding. |  
 
 
 
